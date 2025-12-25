@@ -1,0 +1,18 @@
+
+# Output
+*.exe
+*.dll
+*.so
+*.dylib
+
+clean_output/
+clean_folder/
+output/
+
+*.epub
+
+.DS_Store
+.vscode/
+.idea/
+
+*.tmp
