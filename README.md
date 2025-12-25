@@ -24,7 +24,7 @@ If you have Go installed on your machine:
 1. Clone the repository:
 ```
 git clone https://github.com/Deware-PK/epub2html.git
-cd epub-cleaner
+cd epub2html
 ```
 2. Install dependencies:
 ```
