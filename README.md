@@ -58,4 +58,4 @@ This tool is developed for **personal use and educational purposes only**. It is
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Deware-PK/epub2html/blob/main/LICENSE) file for details.
